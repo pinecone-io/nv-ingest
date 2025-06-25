@@ -48,6 +48,10 @@ milvus = [
 minio = [
     "minio>=7.2.15",
 ]
+pinecone = [
+    "pinecone-client>=6.0.0",
+    # add any other related packages if needed
+]
 
 
 [project.urls]
