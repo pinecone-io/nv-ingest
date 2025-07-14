@@ -22,6 +22,7 @@ dependencies = [
     "pinecone>=6.0.0",
     "pydantic>2.0.0",
     "pydantic-settings>2.0.0",
+    "tritonclient"
 ]
 
 [project.urls]
