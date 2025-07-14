@@ -19,6 +19,7 @@ classifiers = [
 dependencies = [
     "backoff==2.2.1",
     "pandas>=2.0",
+    "pinecone>=6.0.0",
     "pydantic>2.0.0",
     "pydantic-settings>2.0.0",
 ]
